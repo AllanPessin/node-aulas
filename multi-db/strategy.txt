@@ -1,0 +1,1 @@
+Padrão comportameltal, permite a variação do algoritmo independente do cliente que utilize
